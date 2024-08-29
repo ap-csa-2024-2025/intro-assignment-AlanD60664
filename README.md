@@ -13,6 +13,6 @@
 
 ## About Me
 Answer the questions below
-* Something interesting about me is
-* Ask Mr. Vu anything:
-* List your sports and extracurriculars you participate in
+* Something interesting about me is that I can say sus backwards
+* Ask Mr. Vu anything:Can you say sus backwards
+* i play tennis
