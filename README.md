@@ -9,7 +9,7 @@
 4. Clone the correct repository.
 5. Make changes to any files.
 6. Commit your files with a commit message.
-7. Synchronize your repository.
+7. Synchronize your repository.dsdsdsd
 
 ## About Me
 Answer the questions below
